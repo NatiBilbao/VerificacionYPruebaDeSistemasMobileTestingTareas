@@ -3,7 +3,7 @@ package tarea19.testSuite;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import tarea17.session.Session;
+import tarea19.session.Session;
 import tarea19.activities.CreateTaskActivity;
 import tarea19.activities.HomeActivity;
 
