@@ -4,7 +4,7 @@ import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.openqa.selenium.By;
-import tarea17.session.Session;
+import tarea18.session.Session;
 import tarea18.activities.MainClockView;
 import tarea18.controls.Label;
 
